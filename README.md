@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **React, Javascript, Node**
-
 - 📫 How to reach me **biswasdiganta2001@gmail.com**
 
 
